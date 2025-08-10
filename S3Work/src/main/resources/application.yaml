@@ -1,0 +1,8 @@
+aws:
+  region: eu-north-1
+  secretName: awskey
+  
+  bucket:
+    name: upload.data.sync
+
+  
